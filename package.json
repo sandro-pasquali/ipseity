@@ -1,0 +1,30 @@
+{
+  "name": "ipseity",
+  "version": "1.0.0",
+  "description": "Parse bookmark files from Firefox, Chrome, and Pocket and figure out your thing",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "bookmark",
+    "bookmarks",
+    "export",
+    "links",
+    "ai",
+    "nlp",
+    "identity"
+  ],
+  "author": "Sandro Pasquali <spasquali@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "is-stream": "^1.1.0",
+    "split2": "^2.2.0"
+  },
+  "devDependencies": {
+    "surveyor": "^2.0.1"
+  },
+  "directories": {
+    "test": "test"
+  }
+}
