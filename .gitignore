@@ -4,6 +4,8 @@ node_modules
 *.log
 *.out
 
+notes.md
+
 # node-waf configuration
 #
 .lock-wscript/node_cache
